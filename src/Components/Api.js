@@ -97,14 +97,6 @@ const data = {
         shortdescription:
           "This Animated Responsive Buy-Cycle Page is created in React by using HTML, Tailwind, AOS and animation libraries",
       },
-      {
-        Name: "Pepsi Shop",
-        livelink: "https://prismatic-chimera-c03538.netlify.app/",
-
-        imageLink: pepsi,
-        shortdescription:
-          "This Animated Responsive page is created in React by using Javascript, Tailwind and animation libraries.",
-      },
 
       {
         Name: "Crypto Currency",
